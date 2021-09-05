@@ -23,3 +23,4 @@ MVP:
 
 - Set up basic README and github repo
 - Read [react docs](https://reactjs.org/docs/accessibility.html) on accessibility to see what is already a part of React
+- Read documentation on [react simple keyboard](https://www.npmjs.com/package/react-simple-keyboard)
