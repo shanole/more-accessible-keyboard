@@ -22,3 +22,4 @@ MVP:
 #### _Saturday, 9/4_
 
 - Set up basic README and github repo
+- Read [react docs](https://reactjs.org/docs/accessibility.html) on accessibility to see what is already a part of React
