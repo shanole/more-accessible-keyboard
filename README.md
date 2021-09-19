@@ -25,3 +25,12 @@ MVP:
 - Read [react docs](https://reactjs.org/docs/accessibility.html) on accessibility to see what is already a part of React
 - Read documentation on [react simple keyboard](https://www.npmjs.com/package/react-simple-keyboard)
 - Install simple keyboard in sample project to see implementation
+
+#### _Tues, 9/7_
+
+- Learning CSS/SCSS with udemy course
+
+#### _Sat 9/18_
+
+- Having an existential crisis about this capstone idea and wondering if I should change my topic
+- Learning more about firebase authentication
